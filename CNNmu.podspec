@@ -7,6 +7,6 @@ s.homepage         = 'https://github.com/harshahallikeri7/cnn-mu'
 s.license          = "Turner Broadcasting Corporation, 2018"
 s.author           = { 'username' => 'harshahallikeri7@gmail.com' }
 s.source           = { :git => 'https://github.com/harshahallikeri7/cnn-mu.git', :tag => s.version.to_s }
-s.ios.deployment_target = '11.0'
+s.platforms = { :ios => "14.1, :tvos => "14.1" }
 s.source_files = 'MobileUserConsent/*'
 end
