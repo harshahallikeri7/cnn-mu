@@ -80,7 +80,7 @@ public class VendorController: NSObject {
     }
     
     func setConsentStatus(vendorId: String, consentValue: Bool) {
-        
+        otPublisherSDK.updateVendorConsent(vendorID: vendorId, consentStatus: consentValue)
     }
     
     func consentToAllVendors() {

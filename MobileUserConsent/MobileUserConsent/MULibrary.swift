@@ -63,10 +63,8 @@ public class MULibrary: NSObject {
         return oneTrustManager?.getVendorState(vendorId: vendorId) == true
     }
     
-    /*******************************************************
-    * Returns Set vendor consent value
-    *******************************************************/
     @objc
     public func muSetVendorState(vendorId: String, isOpenToDataSharing: Bool) {
+        oneTrustManager?.setVendorState(vendorId: vendorId, consentValue: isOpenToDataSharing)
     }
 }

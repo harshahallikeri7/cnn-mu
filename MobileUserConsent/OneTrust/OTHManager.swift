@@ -252,7 +252,7 @@ class OTHManager: NSObject {
     }
     
     func setVendorState(vendorId: String, consentValue: Bool) {
-        
+        vendorController.setConsentStatus(vendorId: vendorId, consentValue: consentValue)
     }
 }
 
