@@ -138,7 +138,7 @@ class OTHManager: NSObject {
     }
     
     private func publishData(completion: @escaping (Error?) -> Void) {
-        let allVendors = vendorController.getAllVendors()
+        //let allVendors = vendorController.getAllVendors()
         /*for category in groups {
          guard utils.purposeShouldBeIncluded(groupId: category.CustomGroupId, isGDPR: isSubjectToGDPR) else { continue }
          
@@ -153,8 +153,8 @@ class OTHManager: NSObject {
         //_privacyData.vendors = allVendors
         //idfa = ASIdentifierManager.shared().advertisingIdentifier.uuidString
         
-        let uspstr = getUSPString()
-        let iabstr = getIABValues()
+//        let uspstr = getUSPString()
+//        let iabstr = getIABValues()
         
         completion(nil)
     }
