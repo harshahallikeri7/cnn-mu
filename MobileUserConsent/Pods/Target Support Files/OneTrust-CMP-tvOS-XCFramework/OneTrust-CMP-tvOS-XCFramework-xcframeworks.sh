@@ -105,5 +105,5 @@ install_xcframework() {
   echo "Copied $source to $destination"
 }
 
-install_xcframework "${PODS_ROOT}/OneTrust-CMP-tvOS-XCFramework/OTPublishersHeadlessSDKtvOS.xcframework" "OneTrust-CMP-tvOS-XCFramework" "framework" "tvos-arm64" "tvos-arm64_x86_64-simulator"
+install_xcframework "${PODS_ROOT}/OneTrust-CMP-tvOS-XCFramework/OTPublishersHeadlessSDKtvOS.xcframework" "OneTrust-CMP-tvOS-XCFramework" "framework" "tvos-arm64_x86_64-simulator" "tvos-arm64"
 

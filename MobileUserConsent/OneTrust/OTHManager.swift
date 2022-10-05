@@ -7,7 +7,7 @@
 
 import Foundation
 import AdSupport
-
+//import OTPublishersHeadlessSDKtvOS
 #if os(tvOS)
 import OTPublishersHeadlessSDKtvOS
 #else
@@ -153,8 +153,8 @@ class OTHManager: NSObject {
         //_privacyData.vendors = allVendors
         //idfa = ASIdentifierManager.shared().advertisingIdentifier.uuidString
         
-//        let uspstr = getUSPString()
-//        let iabstr = getIABValues()
+        //let uspstr = getUSPString()
+        //let iabstr = getIABValues()
         
         completion(nil)
     }

@@ -1,16 +1,16 @@
 PODS:
-  - OneTrust-CMP-tvOS-XCFramework (6.36.0.0)
+  - OneTrust-CMP-tvOS-XCFramework (202209.2.0.0)
 
 DEPENDENCIES:
-  - OneTrust-CMP-tvOS-XCFramework (~> 6.36.0.0)
+  - OneTrust-CMP-tvOS-XCFramework (~> 202209.2.0.0)
 
 SPEC REPOS:
   trunk:
     - OneTrust-CMP-tvOS-XCFramework
 
 SPEC CHECKSUMS:
-  OneTrust-CMP-tvOS-XCFramework: cb19bc29821810911e0ff1b070268c1d514e0baf
+  OneTrust-CMP-tvOS-XCFramework: a45d07b1ab17f40cf2905bdab59d32bfadf02929
 
-PODFILE CHECKSUM: 353c06546303d335c1e927fe6274191305949f11
+PODFILE CHECKSUM: be7eb4d315c25058e7fa2437076e49d114929139
 
 COCOAPODS: 1.11.2

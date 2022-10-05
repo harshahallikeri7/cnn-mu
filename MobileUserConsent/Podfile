@@ -1,13 +1,12 @@
 # Uncomment the next line to define a global platform for your project
-# platform :tvos, '11.0'
+# platform :tvos, '14.0'
 
 target 'MobileUserConsent' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
-# Pods for OTPublishersNativeAppTvOS-Pods sample app.
-  pod 'OneTrust-CMP-tvOS-XCFramework', '~> 6.36.0.0'
 
   # Pods for MobileUserConsent
+	pod 'OneTrust-CMP-tvOS-XCFramework', '~> 202209.2.0.0'
 
   target 'MobileUserConsentTests' do
     # Pods for testing

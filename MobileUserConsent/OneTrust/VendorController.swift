@@ -5,11 +5,12 @@
 //  Created by alaa alshammari on 10/27/20.
 //  Copyright © 2020 CNN. All rights reserved.
 //
-#if os(tvOS)
 import OTPublishersHeadlessSDKtvOS
-#else
-import OTPublishersHeadlessSDK
-#endif
+//#if os(tvOS)
+//import OTPublishersHeadlessSDKtvOS
+//#else
+//import OTPublishersHeadlessSDK
+//#endif
 import Foundation
 
 public class VendorController: NSObject {
