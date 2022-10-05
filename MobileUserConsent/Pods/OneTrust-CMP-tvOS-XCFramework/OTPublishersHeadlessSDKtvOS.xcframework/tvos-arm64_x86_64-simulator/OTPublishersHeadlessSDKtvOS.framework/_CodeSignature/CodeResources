@@ -130,7 +130,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		68tb3+lC7gd/wHZFBuDQp6mXPrE=
+		7KViekc7KeOdfFc1xTtZKXh/vmA=
 		</data>
 		<key>Modules/OTPublishersHeadlessSDKtvOS.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>Modules/OTPublishersHeadlessSDKtvOS.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		OYKTZ1c6k4aN3tb++FJDIzxCXo0=
+		Zja8jT3+CT99pHcM7MO5xIblunU=
 		</data>
 		<key>Modules/OTPublishersHeadlessSDKtvOS.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>Modules/OTPublishersHeadlessSDKtvOS.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		OYKTZ1c6k4aN3tb++FJDIzxCXo0=
+		Zja8jT3+CT99pHcM7MO5xIblunU=
 		</data>
 		<key>Modules/OTPublishersHeadlessSDKtvOS.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<data>
@@ -166,7 +166,7 @@
 		</data>
 		<key>Modules/OTPublishersHeadlessSDKtvOS.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		pAaAjGwVLqXiMWqchZ71l3pssD4=
+		QYB/Lvww688P5XSzDpPrk1hBw44=
 		</data>
 		<key>Modules/OTPublishersHeadlessSDKtvOS.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -178,7 +178,7 @@
 		</data>
 		<key>Modules/OTPublishersHeadlessSDKtvOS.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		pAaAjGwVLqXiMWqchZ71l3pssD4=
+		QYB/Lvww688P5XSzDpPrk1hBw44=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -426,7 +426,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GR/VfUo7fe9lUBCHVZZlMRCWT4/um6OrrkJJf97FPj0=
+			Kqj+JikMNTxMSQcfv1cq7my2rup1d3T/7PUWB2ZgvU8=
 			</data>
 		</dict>
 		<key>Modules/OTPublishersHeadlessSDKtvOS.swiftmodule/arm64.swiftdoc</key>
@@ -447,7 +447,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GR/VfUo7fe9lUBCHVZZlMRCWT4/um6OrrkJJf97FPj0=
+			Kqj+JikMNTxMSQcfv1cq7my2rup1d3T/7PUWB2ZgvU8=
 			</data>
 		</dict>
 		<key>Modules/OTPublishersHeadlessSDKtvOS.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
@@ -468,7 +468,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wBv8Na0cLOT/L3yDAbGqBoRmdxdnNGZBUZWWwqRXX5w=
+			BbAFNhw+5edsyMadcycKdNyt3KxWp+ZFXM3igXFweUA=
 			</data>
 		</dict>
 		<key>Modules/OTPublishersHeadlessSDKtvOS.swiftmodule/x86_64.swiftdoc</key>
@@ -489,7 +489,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wBv8Na0cLOT/L3yDAbGqBoRmdxdnNGZBUZWWwqRXX5w=
+			BbAFNhw+5edsyMadcycKdNyt3KxWp+ZFXM3igXFweUA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

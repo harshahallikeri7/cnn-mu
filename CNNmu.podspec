@@ -12,6 +12,7 @@ s.source_files = 'MobileUserConsent/MobileUserConsent/*.{swift,h,m}', 'MobileUse
   s.ios.deployment_target = "14.0"
   s.tvos.deployment_target = "14.0"
 
-s.tvos.dependency 'OneTrust-CMP-tvOS-XCFramework' '~> 202209.2.0.0'
+s.tvos.dependency 'OneTrust-CMP-tvOS-XCFramework'
+s.ios.dependency 'OneTrust-CMP-XCFramework'
 
 end

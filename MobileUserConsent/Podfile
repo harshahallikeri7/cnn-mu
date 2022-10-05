@@ -6,7 +6,8 @@ target 'MobileUserConsent' do
   use_frameworks!
 
   # Pods for MobileUserConsent
-	pod 'OneTrust-CMP-tvOS-XCFramework', '~> 202209.2.0.0'
+	pod 'OneTrust-CMP-tvOS-XCFramework'
+	pod 'OneTrust-CMP-XCFramework'
 
   target 'MobileUserConsentTests' do
     # Pods for testing
