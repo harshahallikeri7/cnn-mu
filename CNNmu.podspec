@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'CNNmu'  
-s.version          = '0.0.7'  
+s.version          = '0.0.8'  
 s.summary          = 'A module to integrate OneTrust SDK in CNN projects.' 
 s.description      = "CNNmu is a Mobile User Consent to handle the integration between OTT apps and OneTrust"
 s.homepage         = 'https://github.com/harshahallikeri7/cnn-mu'
